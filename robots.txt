@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-lxizry.pulaucuan.online/sitemap.xml
